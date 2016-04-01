@@ -1,0 +1,13 @@
+.primero{
+	height: 50px;
+	width: 200px;
+	background-color: #F3E2A9;
+	border: 5px solid #BF00FF;
+	padding: 20px 5px;
+	display: inline-block;
+}
+p{
+	text-align: center;
+	border: 2px dashed black;
+	background-color: white;
+}
